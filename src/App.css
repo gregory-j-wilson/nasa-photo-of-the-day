@@ -1,4 +1,8 @@
 .App {
+  
+}
+
+h1 {
   text-align: center;
 }
 
@@ -35,4 +39,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.container {
+  width: 40%;
+  margin: 0 auto;
+}
+.nasa-img {
+  width: 100%;
+  margin: 0 auto;
 }
